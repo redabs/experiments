@@ -26,5 +26,5 @@ text editor panel tiling
 ![](text_editor/kalam-2020-06-06.png)
 
 relative line numbers 
-![](text_editor/kalam.PNG)
+![](text_editor/relative_lines.png)
 
